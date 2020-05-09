@@ -14,19 +14,16 @@ saturday1:
 
 
 monday:
-  - title: DI Goes Retro
-    time: 9h-18h
-    place: Átrio do DI
+  - title: Pod Formation
+    time: May 17 2020, Sunday to May 20 2020, Wednesday.
     image: retro.png
-    text: É durante este dia que o Departamento de Informática entra numa máquina do tempo. Os computadores são substituídos pelos seus antecessores dos anos 80 e 90. Aparece para relembrar as raízes da computação através de jogos arcade e um museu aberto!
+    text: Get into groups on distinct channels with your mentor and fellow participants to fully have a grasp on the Project. As a member of the pod, you will be allotted milestones whose definite worth is reflected upon in your final Scorebords. Be sure to sail through the Milestones while the clock ticks by.
 
-  - title: Bash Introduction
-    time: 16h-18h
-    place: DI A1
-    image: bash.png
-    typeform: https://cesium.typeform.com/to/gtDVSe
-    text: Especialmente preparada para os novos utilizadores de Linux, esta palestra para iniciantes prepara-te para a utilização produtiva do terminal.
-    presentation: https://prezi.com/nxv4lyntrudh/cesium-bash-introduction/
+
+  - title: Milestones
+    time: "Start -> 21st May 2020 <br> <br> 1 -> 3rd June 2020 <br> 2 -> 17th June 2020 <br> 3 -> 1st July 2020 <br> <br> End -> 4th July 2020"
+    image: milestone.png
+    text: Race through milestones of a pod to lead the scoreboard.
 
 tuesday:
   - title: Segurança
