@@ -89,7 +89,9 @@ $(document).ready(function (){
             	$('html,body').animate({scrollTop: targetHight - 170}, 800, "easeInOutExpo");
             });
         }
-	});
+    });
+    
+    $(".button-collapse").sideNav();
 
 });
 
