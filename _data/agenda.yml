@@ -1,16 +1,17 @@
 saturday1:
-  - title: CeSIUM Hackathon
-    time: 10h-20h
-    place: DI A1
-    image: hackathon.png
-    typeform: https://cesium.typeform.com/to/KJkgiV
-    text: A primeira CeSIUM Hackathon deste ano será competitiva! Passa o sábado connosco no Departamento de Informática a programar o melhor bot que conseguires. O vencedor terá direito a um prémio! O almoço e coffee break são por nossa conta. Há limite de vagas para as inscrições.
+  - title: Mentors Sign Up
+    time: By Friday, May 15th 2020
+    image: geenorbertk.png
+    typeform: https://forms.gle/gNuvCm8PKJmxGfXd8
+    text: Mentors can put in their projects as they desire. We will support you in getting it ready for the event, and the final list of Selected Projects will be published on May 16th, 2020, Saturday.
 
-  - title: "BragaJS: Meteor Global Distributed Hackathon"
-    time: 11h-11h (24h)
-    place: DI A1
-    image: meteor.png
-    text: Os meetups BragaJS trazem para Portugal uma edição da Meteor Global Distributed Hackathon! Para te inscreveres neste evento, organizado em conjunto com a <a target="_blank" href="http://subvisual.co/">Subvisual</a>, necessitas de te registar no <a target="_blank" href="http://www.meetup.com/bragajs/events/225530868/">Meetup</a> e no <a target="_blank" href="http://info.meteor.com/2015-hackathon">site oficial</a> até 2 de Outubro. Jantar e coffee break são garantidos! Não te esqueças de consultar as regras de submissão.
+
+  - title: Mentees Sign UP
+    time: By Wednesday, May 20th 2020
+    image: hackathon.png 
+    typeform: https://forms.gle/LPHkdY2eYSp3H7Gs8
+    text: Mentees can put up their candidature so that the project chosen can cater more specifically to their needs. Also, get registered as a mentee to score for your PRs and compete to the top of the ScoreBoard. One can also opt to form developer pods alongwith their mentors and help grow the community.
+
 
 monday:
   - title: DI Goes Retro

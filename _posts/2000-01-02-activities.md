@@ -2,10 +2,10 @@
 title: "A Brief"
 bg: orange
 color: white
-icon: img/umbrella-solid.png
+fa-icon: umbrella
 ---
 
-### What to do through the Summer?
+### Bored through the Summer?
 
 # Well, Why not Code it through?
 <div class="row features">

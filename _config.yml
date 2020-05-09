@@ -15,8 +15,8 @@ markdown: kramdown
 
 ### content configuration ###
 title:       "BITSoC"
-keywords:    "SinglePaged, jekyll, template, github, blog, SoC, IET, BIT, mesra, Summer, Code, single page"
-description: "Official Website for IET BIT Mesra Summer of Code"
+keywords:    "SinglePaged, jekyll, template, github, blog, SoC, IET, BIT, mesra, Summer, Code, Summer, single page"
+description: "The official Landing Page for IET BIT Mesra's 2020 event Summer of Code."
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
@@ -26,8 +26,8 @@ google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (bl
 ### template colors, used site-wide via css ###
 colors:
   white:        '#eaeaea'
-  intro:        '#121212'
-  peach:        '#ed7950'
+  intro:        '#0a0a0a'
+  activities:   '#ed7950'
   saturday-one: '#66b266'
   monday:       '#5ea06e'
   tuesday:      '#578e77'
