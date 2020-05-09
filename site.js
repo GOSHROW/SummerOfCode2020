@@ -91,25 +91,5 @@ $(document).ready(function (){
         }
 	});
 
-  $(".button-collapse").sideNav();
-
-  // Carrousel settings
-  $(document).ready(function(){
-    $('.partners').slick({
-      slidesToShow: 2,
-      slidesToScroll: 2,
-      autoplay: true,
-      arrows: true,
-      dots: true,
-      responsive: [
-      {
-        breakpoint: 976,
-        settings: {
-          slidesToShow: 1,
-          slidesToScroll: 1
-        }
-      }]
-    });
-  });
 });
 

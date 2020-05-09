@@ -1,12 +1,4 @@
----
-title: "Contactos"
-bg: contacts
-color: white
-fa-icon: users
----
-
-
-# Organização
+I"�<h1>Organização</h1>
 
 <div class="contacts">
   <div class="col s12 organiser-logo">
@@ -21,13 +13,13 @@ fa-icon: users
   </div>
 </div>
 
-# Parceiros
+<h1>Parceiros</h1>
 <div class="row partners">
   <div class="col s12 partner valign">
-    <a href="http://subvisual.co" target="blank"><img src="img/contacts/subvisual.png"/></a>
+    <a href="http://subvisual.co" target="blank"><img src="img/contacts/subvisual.png" /></a>
   </div>
   <div class="col s12 partner full-width valign">
-    <a href="http://eurotux.com" target="blank"><img src="img/contacts/eurotux.png"/></a>
+    <a href="http://eurotux.com" target="blank"><img src="img/contacts/eurotux.png" /></a>
   </div>
   <div class="col s12 partner valign">
     <a href="https://www.facebook.com/padariaepastelaria.madrugadora" target="blank">
@@ -36,3 +28,4 @@ fa-icon: users
     </a>
   </div>
 </div>
+:ET

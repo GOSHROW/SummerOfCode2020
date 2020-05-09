@@ -1,2 +1,8 @@
-Proudly hosted on [GitHub](http://www.github.com){:target="_blank"}
-by [CeSIUM](http://www.cesium.di.uminho.pt){:target="_blank"}
+
+
+Design by Tim O'Brien [t413.com](http://t413.com/)
+&mdash;
+[SinglePaged theme](https://github.com/t413/SinglePaged)
+&mdash;
+this site is [open source]({{ site.source_link }})
+
