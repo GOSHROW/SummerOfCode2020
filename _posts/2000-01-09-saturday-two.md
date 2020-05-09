@@ -1,11 +1,14 @@
 ---
-title: "Sábado 17"
+title: "Summer Of Code"
 bg: saturday-two
 color: white
 border-color: contacts
-fa-icon: laptop
+fa-icon: sun-o
 ---
 
+# Get on now already and let not the Heat Stop you Further.
+
+<!-- 
 <div class="section-lines section-top section-left"></div>
 {% for activity in site.data.agenda.saturday2 %}
   {% capture thecycle %}{% cycle 'even', 'odd' %}{% endcapture %}
@@ -65,4 +68,4 @@ fa-icon: laptop
 <div class="section-lines section-bottom section-left"></div>
   {% else %}
 <div class="section-lines section-bottom section-right"></div>
-{% endif %}
+{% endif %} -->

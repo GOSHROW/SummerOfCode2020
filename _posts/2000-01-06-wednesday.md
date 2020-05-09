@@ -1,12 +1,15 @@
 ---
-title: "Quarta 14"
+title: "ScoreBoard"
 bg: wednesday
 color: white
 border-color: thursday
-fa-icon: battery-half
+fa-icon: bar-chart
 ---
 
-<div class="section-lines section-top section-left"></div>
+# Coming soon . . .
+# <i class="fa fa-hourglass fa-2x"></i> 
+
+<!-- <div class="section-lines section-top section-left"></div>
 {% for activity in site.data.agenda.wednesday %}
   {% capture thecycle %}{% cycle 'even', 'odd' %}{% endcapture %}
   {% if thecycle == 'odd' %}
@@ -66,4 +69,4 @@ fa-icon: battery-half
 <div class="section-lines section-bottom section-left"></div>
   {% else %}
 <div class="section-lines section-bottom section-right"></div>
-{% endif %}
+{% endif %} -->
