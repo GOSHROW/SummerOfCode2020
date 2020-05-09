@@ -1,13 +1,6 @@
----
-title: "Atividades"
-bg: activities
-color: white
-icon: img/cesium.png
----
+I"ñ<h4>De que esperas?</h4>
 
-#### De que esperas?
-
-# Temos preparado
+<h1>Temos preparado</h1>
 <div class="row features">
   <div class="col s12 m4 feature">
     <i class="fa fa-comments-o fa-4x">
@@ -34,3 +27,4 @@ icon: img/cesium.png
     <div class="challenge-title collapsible-header"><i class="fa fa-terminal fa-4x"></i>Enunciado</div>
   </li>
 </ul>
+:ET
