@@ -1,6 +1,6 @@
 ---
 title: "A Brief"
-bg: orange
+bg: activities
 color: white
 fa-icon: umbrella
 ---

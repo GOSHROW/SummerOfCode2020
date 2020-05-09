@@ -3,7 +3,7 @@ saturday1:
     time: By Friday, May 15th 2020
     image: geenorbertk.png
     typeform: https://forms.gle/gNuvCm8PKJmxGfXd8
-    text: Mentors can put in their projects as they desire. We will support you in getting it ready for the event, and the final list of Selected Projects will be published on May 16th, 2020, Saturday.
+    text: "Mentors can put in their projects as they desire. We will support you in getting it ready for the event, and the final list of Selected Projects will be published on <emphasis>May 16th, 2020, Saturday</emphasis>."
 
 
   - title: Mentees Sign UP
@@ -26,18 +26,17 @@ monday:
     text: "Race through milestones of a pod to lead the scoreboard. <br>Even outside of a pod, make successful PRs to any repository put forth by the Organization and get scored accordingly."
 
 tuesday:
-  - title: Segurança
-    time: 17h-19h
-    place: DI A1
-    image: segurança.png
-    typeform: https://cesium.typeform.com/to/jau8Ed
-    text: 'A <a target="_blank" href="http://eurotux.com/">Eurotux</a> apresenta-te a primeira de uma série de sessões sobre cibersegurança. Junta-te a nós para aprender os básicos de sistemas e segurança e como os hackers exploram as vulnerabilidades.'
 
-  - title: Geek Night
-    time: 20h30-22h
-    place: Velha-a-Branca
-    image: geenorbertk.png
-    text: As tradicionais Braga Geek Nights estão de volta! Vamos criar o ambiente ideal para te divertires. Vem ter connosco para um serão de informática e convívio.
+  - title: Get on With Git and FOSS
+    time: May 18-19 2020, Monday & Tuesday
+    place: Our Group Chat Platform
+    image: git_tr.png
+    text: "You can get to avoid all embarassments of a rookie Git user with a valuable set of resources provided by the organizers. Thus you can concentrate better on your current project than for the VCS to mediate through.<a href='https://learngitbranching.js.org/'> Till then have a basic idea of Git. </a>"
+
+  - title: PRs? Scores?
+    place: GitHub
+    image: pr.png
+    text: "Make PRs in the provided projects and your mentor / repository owner will grade it alongwith the organizers on all merged PRs comin from the participants. These scores will be tallied onto the weekly and the overall scoreboards. <br> In addition, every weekend various activities will be organized to get you to score more and sharpen your skills"
 
 wednesday:
   - title: "Elixir: A Talk for College Students"
