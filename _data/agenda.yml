@@ -21,9 +21,9 @@ monday:
 
 
   - title: Milestones
-    time: "Start -> 21st May 2020 <br> <br> 1 -> 3rd June 2020 <br> 2 -> 17th June 2020 <br> 3 -> 1st July 2020 <br> <br> End -> 4th July 2020"
+    time: "Start -> 21st May 2020 <br> <br> 1 -> 3rd June 2020 <br> 2 -> 17th June 2020 <br> 3 -> 1st July 2020 <br> <br> End -> 4th July 2020 <br>"
     image: milestone.png
-    text: Race through milestones of a pod to lead the scoreboard.
+    text: "Race through milestones of a pod to lead the scoreboard. <br>Even outside of a pod, make successful PRs to any repository put forth by the Organization and get scored accordingly."
 
 tuesday:
   - title: Segurança
