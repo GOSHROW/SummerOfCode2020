@@ -36,7 +36,7 @@ tuesday:
   - title: PRs? Scores?
     place: GitHub
     image: pr.png
-    text: "Make PRs in the provided projects and your mentor / repository owner will grade it alongwith the organizers on all merged PRs comin from the participants. These scores will be tallied onto the weekly and the overall scoreboards. <br> In addition, every weekend various activities will be organized to get you to score more and sharpen your skills"
+    text: "Make PRs in the provided projects and your mentor / repository owner will grade it alongwith the organizers on all merged PRs from the participants. These scores will be tallied onto the weekly and the overall scoreboards. <br> In addition, every weekend various activities will be organized to get you to score more and sharpen your skills"
 
 wednesday:
   - title: "Elixir: A Talk for College Students"
