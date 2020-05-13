@@ -1,6 +1,7 @@
 var canvas = document.querySelector('canvas'),
     ctx = canvas.getContext('2d');
 
+// var headerHeight = $('img').outerHeight();
 // Setting the width and height of the canvas
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;

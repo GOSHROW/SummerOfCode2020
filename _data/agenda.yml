@@ -1,34 +1,34 @@
 saturday1:
   - title: Mentors Sign Up
-    time: By Saturday, May 16th 2020, 11:59 pm
+    time: By Wednesday, May 20th 2020, 11:59 pm
     image: geenorbertk.png
-    typeform: https://forms.gle/gNuvCm8PKJmxGfXd8
-    text: "Mentors can put in their projects as they desire. We will support you in getting it ready for the event, and the final list of Selected Projects will be published on <emphasis>May 17th, 2020, Sunday</emphasis>."
+    typeform: https://bitsoc-mentor.paperform.co
+    text: "Mentors can put in their projects as they desire. We will support you in getting it ready for the event, and the final list of Selected Projects will be published on <emphasis>May 21st, 2020, Thursday</emphasis>."
 
 
-  - title: Mentees Sign UP
-    time: By Wednesday, May 20th 2020. 11:59 pm
+  - title: Mentees Sign Up
+    time: By Thursday, May 21st 2020. 11:59 pm
     image: hackathon.png 
-    typeform: https://forms.gle/LPHkdY2eYSp3H7Gs8
+    typeform: https://bitsoc-mentee.paperform.co
     text: Mentees can put up their candidature so that the project chosen can cater more specifically to their needs. Also, get registered as a mentee to score for your PRs and compete to the top of the ScoreBoard. One can also opt to form developer pods alongwith their mentors and help grow the community.
 
 
 monday:
   - title: Pod Formation
-    time: May 17 2020, Sunday to May 20 2020, Wednesday.
+    time: May 22nd 2020, Friday.
     image: retro.png
     text: Get into groups on distinct channels with your mentor and fellow participants to fully have a grasp on the Project. As a member of the pod, you will be allotted milestones whose definite worth is reflected upon in your final Scorebords. Be sure to sail through the Milestones while the clock ticks by.
 
 
   - title: Milestones
-    time: "Start -> 21st May 2020 <br> <br> 1 -> 3rd June 2020 <br> 2 -> 17th June 2020 <br> 3 -> 1st July 2020 <br> <br> End -> 4th July 2020 <br>"
+    time: "Start -> 23rd May 2020 <br> <br> 1 -> 3rd June 2020 <br> 2 -> 17th June 2020 <br> 3 -> 1st July 2020 <br> <br> End -> 4th July 2020 <br>"
     image: milestone.png
     text: "Race through milestones of a pod to lead the scoreboard. <br>Even outside of a pod, make successful PRs to any repository put forth by the Organization and get scored accordingly."
 
 tuesday:
 
   - title: Get on With Git and FOSS
-    time: May 18-19 2020, Monday & Tuesday
+    time: May 19th 2020, Tuesday
     place: Our Group Chat Platform
     image: git_tr.png
     text: "You can get to avoid all embarassments of a rookie Git user with a valuable set of resources provided by the organizers. Thus you can concentrate better on your current project than for the VCS to mediate through.<a href='https://learngitbranching.js.org/'> Till then have a basic idea of Git. </a>"
