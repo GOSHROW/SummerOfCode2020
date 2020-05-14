@@ -25,7 +25,7 @@ fa-icon: umbrella
     <i class="fa fa-terminal fa-4x">
     </i>
     <h4> Learn. More. Daily. </h4>
-    <p class="feature-description"> With a properly Competitive and a Properly Incentivizing Environment get to develop your developement skills. </p>
+    <p class="feature-description"> With a properly Competitive and a properly Incentivizing Environment, get to strengthen your development skills. </p>
   </div>
 </div>
 
