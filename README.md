@@ -11,19 +11,29 @@ Static files are provided in the root directory. The images, favicons and SVGs i
 
 The final webpage is at [bitsoc.html](./bitsoc.html)
 
+Check out [_config](_config.yml)
+
 ### Setup
 
 Fork and Clone the repo as necessary. 
 ```
+git clone git@github.com:GOSHROW/SummerOfCode2020.git
+```
+
+```
 git checkout gh-pages
 ```
 
-Served by 
+Served by :
 
 ```
 jekyll serve -w
 ```
 
-For jekyll installation [here](https://jekyllrb.com/docs/installation/)
+at localhost:5000 
+or make a PR to view at [goshrow.github.io/SummerOfCode2020](goshrow.github.io/SummerOfCode2020)
+
+
+For jekyll installation refer [here](https://jekyllrb.com/docs/installation/)
 
 Forked from [Single Paged](https://github.com/t413/SinglePaged)

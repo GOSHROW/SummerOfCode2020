@@ -1,0 +1,21 @@
+
+#preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: linear-gradient(-90deg, blueviolet, pink);
+    z-index: 2000;
+} 
+
+#status {
+    position: absolute;
+    
+    height: 100%;
+    width: 100%;
+    background-image: url(../img/loading.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: -100px 0 0 -100px;
+}
