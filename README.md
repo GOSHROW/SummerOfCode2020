@@ -13,7 +13,10 @@ The final webpage is at [bitsoc.html](./bitsoc.html)
 
 ### Setup
 
-Fork and Clone the repo as necessary
+Fork and Clone the repo as necessary. 
+```
+git checkout gh-pages
+```
 
 Served by 
 
