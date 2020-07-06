@@ -9,7 +9,7 @@ All rendered components can be found at [_sites](./_sites) as is typical.
 
 Static files are provided in the root directory. The images, favicons and SVGs if any are at [img](./img), while CSS and SaSS is located at [stylesheets](./stylesheets).
 
-The final webpage is at [bitsoc.html](./bitsoc.html)
+The final webpage is at [index.html](./index.html)
 
 Check out [_config](_config.yml)
 
