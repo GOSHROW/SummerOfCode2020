@@ -1,13 +1,13 @@
 saturday1:
   - title: Mentors Sign Up
-    time: By Wednesday, May 20th 2020, 11:59 pm
+    time: By Monday, July 13th 2020, 11:59 pm
     image: geenorbertk.png
     typeform: https://bitsoc.typeform.com/to/ldC4mY5Y
     text: "Mentors can put in their projects as they desire. We will support you in getting it ready for the event, and the final list of Selected Projects will be published on <emphasis>May 21st, 2020, Thursday</emphasis>."
 
 
   - title: Mentees Sign Up
-    time: By Thursday, May 21st 2020. 11:59 pm
+    time: By Thursday, July 16th 2020. 11:59 pm
     image: hackathon.png 
     typeform: https://bitsoc-mentee.paperform.co
     text: Mentees can put up their candidature so that the project chosen can cater more specifically to their needs. Also, get registered as a mentee to score for your PRs and compete to the top of the ScoreBoard. One can also opt to form developer pods alongwith their mentors and help grow the community.
@@ -15,7 +15,7 @@ saturday1:
 
 monday:
   - title: Pod Formation
-    time: May 22nd 2020, Friday.
+    time: July 17th 2020, Friday.
     image: retro.png
     text: Get into groups on distinct channels with your mentor and fellow participants to fully have a grasp on the Project. As a member of the pod, you will be allotted milestones whose definite worth is reflected upon in your final Scorebords. Be sure to sail through the Milestones while the clock ticks by.
 
@@ -35,23 +35,23 @@ table, th, td {
   </tr>
   <tr>
     <td>Start</td>
-    <td>23rd May 2020</td>
+    <td>20th July 2020</td>
   </tr>
   <tr>
     <td>Task 1</td>
-    <td>3rd June 2020</td>
+    <td>5th August 2020</td>
   </tr>
   <tr>
     <td>Task 2</td>
-    <td>17th June 2020</td>
+    <td>16th August 2020</td>
   </tr>
   <tr>
     <td>Task 3</td>
-    <td>1st July 2020</td>
+    <td>29th August 2020</td>
   </tr>
   <tr>
     <td>Final Merges and END</td>
-    <td>4th July 2020</td>
+    <td>31st August 2020</td>
   </tr>
 </table>"
     image: milestone.png
@@ -60,7 +60,7 @@ table, th, td {
 tuesday:
 
   - title: Get on With Git and FOSS
-    time: May 19th 2020, Tuesday
+    time: July 12th 2020, Sunday
     place: Our Group Chat Platform
     image: git_tr.png
     text: "You can get to avoid all embarassments of a rookie Git user with a valuable set of resources provided by the organizers. Thus you can concentrate better on your current project than for the VCS to mediate through.<a href='https://learngitbranching.js.org/'> Till then have a basic idea of Git. </a>"
